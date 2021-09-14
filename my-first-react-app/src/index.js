@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+// https://reactjs.org/tutorial/tutorial.html#inspecting-the-starter-code
 
 function Square(props) {
   return (
